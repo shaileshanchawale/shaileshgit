@@ -1,0 +1,7 @@
+git config --global user.email "anchawale.sp@gmail.com"
+
+git config --global user.name "shailesh anchawale"
+
+git status :  finding the status of Git 
+
+1) git init 
